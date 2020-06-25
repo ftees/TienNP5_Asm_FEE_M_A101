@@ -1,0 +1,62 @@
+
+body{
+	margin: 0;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.header{
+	width: 100%;
+	height: auto;
+	display: flex;
+	border-bottom: 2px solid #babab8;
+	
+}
+.logo{
+	width: 50%;
+}
+.title{
+	color: #adacac;
+	width: 50%;
+	padding-left: 550px;
+}
+h2{
+	color: #adacac;
+}
+h4{
+	padding-left: 100px;
+
+}
+.banner{
+	margin-top: 30px;
+}
+.banner img{
+
+	width: 100%;
+}
+.menu{
+	width: 100%;
+	display: flex;
+
+}
+#product1{
+	margin: 0;
+}
+.product img{
+	width: 100%;
+}
+.product{
+	width: 32%;
+	margin-left: 30px;
+	text-align: center;
+}
+.product h2,p{
+	color: #000;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
